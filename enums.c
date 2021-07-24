@@ -8,9 +8,9 @@ unsigned char dailyWorkedHours = 0;
 enum weekDays {Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday} today;
 
 /*enum NOMBRE-ENUM {
-    NOMBRE = #-VALOR
-    NOMBRE = #-VALOR
-    NOMBRE = #-VALOR
+    NOMBRE = #-VALOR,
+    NOMBRE = #-VALOR,
+    NOMBRE = #-VALOR,
 } ¿APUNTADOR?;*/
 
 int main(){
